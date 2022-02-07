@@ -1,0 +1,1 @@
+sipp -sf uac.xml -inf a_user.csv -p 6067 -i 172.16.23.243 -m 5 -aa 172.16.23.243:5060
