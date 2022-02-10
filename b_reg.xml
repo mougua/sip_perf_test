@@ -29,7 +29,7 @@
       CSeq: 1 REGISTER
       Contact: sip:[field0]@[local_ip]:[local_port]
       Content-Length: 0
-      Expires: 1800
+      Expires: 3600 
     ]]>
   </send>
 
@@ -50,7 +50,7 @@
       Contact: sip:[field0]@[local_ip]:[local_port]
       [field1]
       Content-Length: [len]
-      Expires: 1800
+      Expires: 3600 
     ]]>
   </send>
 

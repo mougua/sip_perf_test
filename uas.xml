@@ -4,6 +4,7 @@
 
 <scenario name="Basic UAS responder">
   <!-- <label id="0"/> -->
+  <recv request="OPTIONS" optional="true"></recv>
   <recv request="INVITE" crlf="true">
   </recv>
   <send>
